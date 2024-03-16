@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\bowlingleague\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:bowlingleague\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\bowlingleague\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:bowlingleague\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\bowlingleague\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:bowlingleague\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\bowlingleague\\bowlercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:bowlingleague\\bowlercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\bowlingleague\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:bowlingleague\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|c:\\users\\kutek\\documents\\school\\winter 2024\\is 413\\mission 10\\mission10 - coleman\\backend\\letsbowl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D3BDFEC-9B3C-4CB8-9A47-6051FB46D8F0}|LetsBowl.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T00:33:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\Team.cs",
+              "RelativeDocumentMoniker": "BowlingLeague\\Team.cs",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\Team.cs",
+              "RelativeToolTip": "BowlingLeague\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:08:30.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BowlerContext.cs",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\BowlerContext.cs",
+              "RelativeDocumentMoniker": "BowlingLeague\\BowlerContext.cs",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\BowlerContext.cs",
+              "RelativeToolTip": "BowlingLeague\\BowlerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:16:37.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\IBowlerRepository.cs",
+              "RelativeDocumentMoniker": "BowlingLeague\\IBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\IBowlerRepository.cs",
+              "RelativeToolTip": "BowlingLeague\\IBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:11:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T18:13:39.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Controllers\\BowlerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:45:13.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\Bowler.cs",
+              "RelativeDocumentMoniker": "BowlingLeague\\Bowler.cs",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\Bowler.cs",
+              "RelativeToolTip": "BowlingLeague\\Bowler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:32:28.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "BowlingLeague\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\BowlingLeague\\EFBowlerRepository.cs",
+              "RelativeToolTip": "BowlingLeague\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:32:13.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kutek\\Documents\\School\\Winter 2024\\IS 413\\Mission 10\\Mission10 - Coleman\\backend\\LetsBowl\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:42:55.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
